@@ -2,10 +2,10 @@
   "firmwares": 
   [
 	{
-      "name": "exa_bootloader_3",
-      "version": "3",
+      "name": "exa_bootloader_4",
+      "version": "4",
       "buildtime": "1495022400",
-      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_bootloader/exa_bootloader_3.zip",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_bootloader/exa_bootloader_4.zip",
       "md5": "18c1e04cb192e0c9683af91aeeec615a",
       "hw": [ "EXA51" ]
     }
