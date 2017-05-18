@@ -1,4 +1,4 @@
 == EXA Application version history ==
 
-# 24.3.2017 Ver 2.0.0
+# 17.5.2017 Ver 3
 - Initial version
