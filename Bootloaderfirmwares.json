@@ -7,7 +7,7 @@
       "buildtime": "1495022400",
       "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_bootloader/exa_bootloader_3.zip",
       "md5": "18c1e04cb192e0c9683af91aeeec615a",
-      "hw": [ "EXA" ]
+      "hw": [ "EXA51" ]
     }
   ]
 }
