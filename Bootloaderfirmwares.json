@@ -2,7 +2,7 @@
   "firmwares": 
   [
 	{
-      "name": "exa_bootloader_4",
+      "name": "EXA bootloader",
       "version": "4",
       "buildtime": "1495022400",
       "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_bootloader/exa_bootloader_4.zip",

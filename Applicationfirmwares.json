@@ -2,7 +2,7 @@
   "firmwares": 
   [
     {
-      "name": "exa_application_207",
+      "name": "EXA application (Basic)",
       "version": "2.0.7",
       "buildtime": "1495022400",
       "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa_application_207.zip",
@@ -10,7 +10,7 @@
       "hw": [ "EXA51" ]
     },
 	{
-      "name": "exa_application_207+",
+      "name": "EXA application (HI speed)",
       "version": "2.0.7",
       "buildtime": "1495022400",
       "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa_application_207+.zip",
