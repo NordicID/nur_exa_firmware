@@ -3,9 +3,9 @@
   [
     {
       "name": "EXA application",
-      "version": "2.0.9",
-      "buildtime": "1495022400",
-      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa_application_209.zip",
+      "version": "2.1.2",
+      "buildtime": "1503652818",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa_application_212.zip",
       "md5": "18c1e04cb192e0c9683af91aeeec615a",
       "hw": [ "EXA51","EXA31" ]
     }
