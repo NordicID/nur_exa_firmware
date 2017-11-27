@@ -1,5 +1,9 @@
 # EXA Bootloader Version History
 
+## VER 7 (14.9.2017)
+
+* Fixed reset source check where it looks now only POWEROFF_RESET flag in order to perform trigger delay.
+
 ## VER 6 (25.8.2017)
 
 * Added 500ms delay for trigger button for inorder to prevent accidentally startup's.

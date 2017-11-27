@@ -1,5 +1,24 @@
 # EXA Application Version History
 
+Inorder to gain maximum RFID reading data through put, it's recommended to use "exa_application_xxx-H" (high speed) version with mobile phones / tablets equipped with Bluetooth version 4.2 or higher.
+Use "exa_application_xxx-L" (default) in applications where high data through put requirement is not critical.
+
+
+## VER 2.2.0 (27.11.2017)
+
+* Improved EXA31 connectivity.
+* Prevented automatic restart when EXA51 is on table charger and battery is full.
+* Fixed Nur comm bug after imagerConfig. Serial route did not changed after imagerConfig command.
+* Added 15ms delay between chars when sending using HID mode. (works better with IOS devices)
+* Fixed starup bug when charger plugged in.
+* Fixed high current charging bug
+* Fixed "long write" bug. Causes device reset when need to write long EPC code. Works now on IOS.
+
+## VER 2.1.3 (14.9.2017)
+
+* Changed Max connection interval from 60ms to 15ms when using MTU 23 ("default") version.
+* Two version of FW supported "default -L" (Mtu=23) "High speed -H" (Mtu=158). High speed version recommended to devices communicating with BLE 4.2 or higher.
+
 ## VER 2.1.2 (25.8.2017)
 
 * Fixes for temperature control when charging. Charging off if temp rises > 45 celsius.
