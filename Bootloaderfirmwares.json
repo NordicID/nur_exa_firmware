@@ -5,7 +5,7 @@
       "name": "EXA bootloader",
       "version": "7",
       "buildtime": "1511767729",
-      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_bootloader/exa_bootloader_6.zip",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_bootloader/exa_bootloader_7.zip",
       "md5": "D7EF2243979C46C4BE5D23284643253E",
       "hw": [ "EXA51","EXA31" ]
     }
