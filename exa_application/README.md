@@ -3,6 +3,11 @@
 Inorder to gain maximum RFID reading data through put, it's recommended to use "exa_application_xxx-H" (high speed) version with mobile phones / tablets equipped with Bluetooth version 4.2 or higher.
 Use "exa_application_xxx-L" (default) in applications where high data through put requirement is not critical.
 
+## VER 2.2.2 (17.1.2018)
+
+* Increased "Longwrite" buffer from 256 --> 1024. (Required when updating NUR FW via PC BLE)
+* Added possibility to Enable/disable pairing with peer device. By default pairing disabled.
+* Fixed Flash storage operation issue when reading configuration barcode.
 
 ## VER 2.2.0 (27.11.2017)
 
