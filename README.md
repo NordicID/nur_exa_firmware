@@ -8,7 +8,7 @@ Inorder to gain maximum RFID reading data through put, it's recommended to use *
 Use "**exa_application_xxx-L**" in applications where high data through put requirement is not critical or mobile phone doesn't work properly with -H version.
 ## Version history
 
-### VER 2.2.4 (19.4.2018)
+### VER 2.2.4 (18.4.2018)
 * Fixed HID service lost issue after 4th or 5th connection with peer.
 
 ### VER 2.2.3 (19.3.2018)
