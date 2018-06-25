@@ -1,0 +1,21 @@
+{
+  "firmwares": 
+  [
+	{
+      "name": "EXA bootloader",
+      "version": "8",
+      "buildtime": "1528092885",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_bootloader/exa_bootloader_8.zip",
+      "md5": "4BEBDEDC5DA0449068364CFD5443BB28",
+      "hw": [ "EXA51","EXA31" ]
+    },
+	{
+      "name": "EXA bootloader",
+      "version": "9",
+      "buildtime": "1529915781",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_bootloader/exa_bootloader_9.zip",
+      "md5": "E8F5C7622B8093852D0B7B749ED7B6C6",
+      "hw": [ "EXA5" ]
+    }
+  ]
+}
