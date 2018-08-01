@@ -12,9 +12,9 @@
 	{
       "name": "EXA bootloader",
       "version": "9",
-      "buildtime": "1529915781",
+      "buildtime": "1533104673",
       "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_bootloader/exa_bootloader_9.zip",
-      "md5": "E8F5C7622B8093852D0B7B749ED7B6C6",
+      "md5": "7C8237703CE10978556B7B02200325AE",
       "hw": [ "EXA5" ]
     }
   ]
