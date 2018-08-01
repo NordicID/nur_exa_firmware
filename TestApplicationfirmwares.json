@@ -22,7 +22,7 @@
       "version": "5.0.2",
       "buildtime": "1533104673",
       "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa5_bl_sd_app_502.zip",
-      "md5": "D4FC95BC0E14C2CF29A192586D95017B",
+      "md5": "6C695B47BB82458EFBE5DCEA9EC6445F",
       "hw": [ "EXA5" ]
     },
 	{
@@ -30,7 +30,7 @@
       "version": "5.0.2",
       "buildtime": "1533104673",
       "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa5_application_502.zip",
-      "md5": "79E63D5743636609E9BFE1EBE8D43AF2",
+      "md5": "B9720573A097C72448466777AF71C665",
       "hw": [ "EXA51","EXA31" ]
     }	
   ]
