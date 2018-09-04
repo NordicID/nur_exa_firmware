@@ -8,6 +8,10 @@ Inorder to gain maximum RFID reading data through put, it's recommended to use *
 Use "**exa_application_xxx-L**" in applications where high data through put requirement is not critical or mobile phone doesn't work properly with -H version.
 ## Version history
 
+### VER 2.2.7 (4.9.2018)
+* Check battery state before powerup. If battery too low for powerup, device run on charging loop until enough power for starting.
+* Wireless charge off on BLE disonnect & power off.
+
 ### VER 2.2.5 (31.5.2018)
 * Added device type information in to advertising (manufacturer) data. LSB 0x31=EXA31 0x51=EXA51 0xFF=No Config.
 * Fixed main XTAL startup issue at low temperatures.
