@@ -3,34 +3,34 @@
   [
     {
       "name": "EXA application",
-      "version": "2.2.5-H",
-      "buildtime": "1528092885",
-      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa_application_225-H.zip",
-      "md5": "48BD6D71C5E5DD741712DC89B86A742D",
+      "version": "2.2.7-H",
+      "buildtime": "1536057164",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa_application_227-H.zip",
+      "md5": "F01B2157B96403E3BD6CCE65821F5667",
       "hw": [ "EXA51","EXA31" ]
     },
 	{
       "name": "EXA application",
-      "version": "2.2.5-L",
-      "buildtime": "1528092885",
-      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa_application_225-L.zip",
-      "md5": "750247E541F73AEEEE2610FE2AABEC2D",
+      "version": "2.2.7-L",
+      "buildtime": "1536057164",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa_application_227-L.zip",
+      "md5": "0B822FF416E0EAD5844A8F6B7BDBE1A8",
       "hw": [ "EXA51","EXA31" ]
     },
 	{
       "name": "EXA application",
-      "version": "5.0.2",
-      "buildtime": "1533104673",
-      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa5_bl_sd_app_502.zip",
-      "md5": "6C695B47BB82458EFBE5DCEA9EC6445F",
+      "version": "5.0.3",
+      "buildtime": "1536205030",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa5_bl_sd_app_503.zip",
+      "md5": "2B65569C685430045F211E8F0018BC21",
       "hw": [ "EXA5" ]
     },
 	{
       "name": "EXA application",
-      "version": "5.0.2",
-      "buildtime": "1533104673",
-      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa5_application_502.zip",
-      "md5": "B9720573A097C72448466777AF71C665",
+      "version": "5.0.3",
+      "buildtime": "1536205030",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa5_application_503.zip",
+      "md5": "176AF13A936AFC92814CF659C22C88D9",
       "hw": [ "EXA51","EXA31" ]
     }	
   ]
