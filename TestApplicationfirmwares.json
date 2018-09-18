@@ -19,18 +19,18 @@
     },
 	{
       "name": "EXA application",
-      "version": "5.0.3",
-      "buildtime": "1536205030",
-      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa5_bl_sd_app_503.zip",
-      "md5": "2B65569C685430045F211E8F0018BC21",
+      "version": "5.0.4",
+      "buildtime": "1537272255",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa5_bl_sd_app_504.zip",
+      "md5": "C0B3373FAA6D609644AB9A553CEFF2B2",
       "hw": [ "EXA5" ]
     },
 	{
       "name": "EXA application",
-      "version": "5.0.3",
-      "buildtime": "1536205030",
-      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa5_application_503.zip",
-      "md5": "176AF13A936AFC92814CF659C22C88D9",
+      "version": "5.0.4",
+      "buildtime": "1537272255",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa5_application_504.zip",
+      "md5": "C72B9B474AA287A4DFF9145A93D6E97E",
       "hw": [ "EXA51","EXA31" ]
     }	
   ]
