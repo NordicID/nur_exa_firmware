@@ -8,6 +8,14 @@ Inorder to gain maximum RFID reading data through put, it's recommended to use *
 Use "**exa_application_xxx-L**" in applications where high data through put requirement is not critical or mobile phone doesn't work properly with -H version.
 ## Version history
 
+### VER 2.3.4	(3.10.2019)
+- Fixed: SetBLEName ext command is now AccEnumSensor causing name corrupted
+- Auto repair if BLE name corrupted
+
+### VER 2.3.2 (29.5.2019)
+- Added possibility to clear pairing list while connected by keeping button Unpair + Power key down at least 2 second.
+- Fixed pairing icon appearing on android in to generic (formaly gamepad) if HID mode not enabled when using paired connection.
+
 ### VER 2.2.9 (9.5.2019)
 * Fixed barcode scan activate bug when using accessory command readBarcodeAsync without aiming preceeded.
 

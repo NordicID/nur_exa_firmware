@@ -3,18 +3,10 @@
   [
     {
       "name": "EXA application",
-      "version": "2.2.9-H",
-      "buildtime": "1557473851",
-      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa_application_229-H.zip",
-      "md5": "94A4139AAC16B989B07B8EAC5E3A6414",
-      "hw": [ "EXA51","EXA31" ]
-    },
-	{
-      "name": "EXA application",
-      "version": "2.2.9-L",
-      "buildtime": "1557473851",
-      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa_application_229-L.zip",
-      "md5": "5B49B369AD97CB984E795DE607A7252D",
+      "version": "2.3.4-H",
+      "buildtime": "1570189458",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa_application_234-H.zip",
+      "md5": "A1AD27B1B2FFF2D7F5CC089D227A46DD",
       "hw": [ "EXA51","EXA31" ]
     }
   ]
