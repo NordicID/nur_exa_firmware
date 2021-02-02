@@ -11,7 +11,7 @@
     },
 	{
       "name": "EXA21 application",
-      "version": "3.7.5",
+      "version": "3.7.5.A",
       "buildtime": "1612275356",
       "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/EXA21_bl_sd_app_375-2FEB.zip",
       "md5": "5d34f2940ac075a66d535d5fcd0bdca5",
