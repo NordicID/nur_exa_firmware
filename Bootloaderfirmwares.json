@@ -1,6 +1,14 @@
 {
   "firmwares": 
   [
+  	{
+      "name": "EXA bootloader",
+      "version": "16",
+      "buildtime": "1606089600",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_bootloader/exa_bootloader_16.zip",
+      "md5": "50b28bf25cfce6212453fd8ec48e7a65",
+      "hw": [ "EXA51","EXA31" ]
+    },
 	{
       "name": "EXA bootloader",
       "version": "8",
