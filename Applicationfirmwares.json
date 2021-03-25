@@ -1,6 +1,14 @@
 {
   "firmwares": 
   [
+     {
+      "name": "EXA application 2.4.4-H",
+      "version": "2.4.4-H",
+      "buildtime": "1606089600",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa_application_244-H.zip",
+      "md5": "9c41213abe45f20f6f7313189938d4de",
+      "hw": [ "EXA51","EXA31" ]
+    },
     {
       "name": "EXA application",
       "version": "2.3.4-H",
