@@ -1,4 +1,4 @@
-EXA21 application fw
+**EXA21 application fw**
 
 6-February-2020 3.7.1
 - Changes for production tester
