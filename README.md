@@ -8,6 +8,13 @@ Inorder to gain maximum RFID reading data through put, it's recommended to use *
 Use "**exa_application_xxx-L**" in applications where high data through put requirement is not critical or mobile phone doesn't work properly with -H version.
 ## Version history
 
+### VER 2.4.4-H (23.11.2020)
+- Fix missing trig down event while reading barcode
+- Added vibration in HID mode for indicating successful read.
+- Fixed hang issue while operating in HID mode.
+- Added watchdog functionality
+- Added delay for charging start
+
 ### VER 2.3.4	(3.10.2019)
 - Fixed: SetBLEName ext command is now AccEnumSensor causing name corrupted
 - Auto repair if BLE name corrupted
