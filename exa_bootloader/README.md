@@ -1,5 +1,8 @@
 # EXA Bootloader Version History
 
+## VER 16 (23.11.2020)
+- Added wathdog functionality
+
 ## VER 8  (31.5.2018)
 * Fixed main XTAL startup issue at low temperatures.
 
