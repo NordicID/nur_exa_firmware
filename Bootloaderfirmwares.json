@@ -16,6 +16,14 @@
       "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_bootloader/exa_bootloader_8.zip",
       "md5": "4BEBDEDC5DA0449068364CFD5443BB28",
       "hw": [ "EXA51","EXA31" ]
+    },
+	{
+      "name": "EXA21 bootloader",
+      "version": "8",
+      "buildtime": "1561593600",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/EXA21_bootloader/EXA21_bootloader_8.zip",
+      "md5": "e53a46c4d3dfac049d1f88cd717ed45a",
+      "hw": [ "EXA21" ]
     }
   ]
 }
