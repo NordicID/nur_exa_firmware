@@ -1,29 +1,36 @@
 {
-  "firmwares": 
-  [
-     {
-      "name": "EXA application 2.4.4-H",
-      "version": "2.4.4-H",
-      "buildtime": "1606089600",
-      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa_application_244-H.zip",
-      "md5": "9c41213abe45f20f6f7313189938d4de",
-      "hw": [ "EXA51","EXA31" ]
-    },
-    {
-      "name": "EXA application",
-      "version": "2.3.4-H",
-      "buildtime": "1570189458",
-      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa_application_234-H.zip",
-      "md5": "A1AD27B1B2FFF2D7F5CC089D227A46DD",
-      "hw": [ "EXA51","EXA31" ]
-    },
-	{
-      "name": "EXA21 application",
-      "version": "3.7.1",
-      "buildtime": "1612275356",
-      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/EXA21_application/EXA21_application_371.zip",
-      "md5": "6b966f0b1b94889a3fe6bf8ce1c04d3b",
-      "hw": [ "EXA21" ]
-    }
-  ]
+    "firmwares": [
+        {
+            "name": "EXA application 2.4.6-H",
+            "version": "2.4.6-H",
+            "buildtime": "1620648000",
+            "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa_application_246-H.zip",
+            "md5": "9cf0a8b1ada7d139009a21897ca9ba24",
+            "hw": [ "EXA51", "EXA31" ]
+        },
+        {
+            "name": "EXA application 2.4.4-H",
+            "version": "2.4.4-H",
+            "buildtime": "1606089600",
+            "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa_application_244-H.zip",
+            "md5": "9c41213abe45f20f6f7313189938d4de",
+            "hw": [ "EXA51", "EXA31" ]
+        },
+        {
+            "name": "EXA application",
+            "version": "2.3.4-H",
+            "buildtime": "1570189458",
+            "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/exa_application/exa_application_234-H.zip",
+            "md5": "A1AD27B1B2FFF2D7F5CC089D227A46DD",
+            "hw": [ "EXA51", "EXA31" ]
+        },
+        {
+            "name": "EXA21 application",
+            "version": "3.7.1",
+            "buildtime": "1612275356",
+            "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/EXA21_application/EXA21_application_371.zip",
+            "md5": "6b966f0b1b94889a3fe6bf8ce1c04d3b",
+            "hw": [ "EXA21" ]
+        }
+    ]
 }

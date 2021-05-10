@@ -1,6 +1,10 @@
 
 ## Version history
 
+### VER 2.4.6	(7.5.2021)
+- Fixed charging related issues
+
+
 ### VER 2.4.4-H (23.11.2020)
 - Fix missing trig down event while reading barcode
 - Added vibration in HID mode for indicating successful read.
