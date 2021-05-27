@@ -19,10 +19,10 @@
     },
 	{
       "name": "EXA21 bootloader",
-      "version": "8",
-      "buildtime": "1561593600",
-      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/EXA21_bootloader/EXA21_bootloader_8.zip",
-      "md5": "e53a46c4d3dfac049d1f88cd717ed45a",
+      "version": "11",
+      "buildtime": "1622116800",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/EXA21_bootloader/EXA21_bootloader_11.zip",
+      "md5": "9037865de4c8007fd7c8e4cd86e68a3f",
       "hw": [ "EXA21" ]
     }
   ]
