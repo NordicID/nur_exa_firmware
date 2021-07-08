@@ -26,10 +26,10 @@
         },
         {
             "name": "EXA21 application",
-            "version": "4.1.1",
-            "buildtime": "1622116800",
-            "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/EXA21_application/EXA21_application_411.zip",
-            "md5": "0fcc23dd9c9314559a0e68767d7be379",
+            "version": "4.1.4",
+            "buildtime": "1625745600",
+            "url": "https://raw.githubusercontent.com/NordicID/nur_exa_firmware/master/EXA21_application/EXA21_application_414.zip",
+            "md5": "1a83a894b81f176a8f276d8e95a95694",
             "hw": [ "EXA21" ]
         }
     ]

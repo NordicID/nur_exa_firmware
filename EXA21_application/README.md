@@ -1,5 +1,9 @@
 **EXA21 application fw**
 
+8-July-2021 4.1.4
+- Fixed unexpected power up.
+- Fixes for production test.
+
 27-May-2021 4.1.1
 - Fixed ToF initialization issue.
 - Led state improvements
